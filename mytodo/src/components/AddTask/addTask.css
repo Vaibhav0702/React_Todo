@@ -1,0 +1,14 @@
+.todoForm {
+ 
+  width: 350px;
+  margin: auto;
+  text-align: center;
+  padding: 5px;
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+
+  /* border: 1px solid red; */
+
+
+}

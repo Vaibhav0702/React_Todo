@@ -1,0 +1,8 @@
+.counter {
+ 
+  width: 80px;
+  display: flex;
+  justify-content: space-between;
+
+  /* border: 1px solid brown; */
+}

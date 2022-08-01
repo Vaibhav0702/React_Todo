@@ -1,0 +1,20 @@
+.tasks {
+  /* sample */
+  width: 350px;
+  margin: auto;
+  background-color: rgb(255, 159, 143);
+  padding:5px;
+
+  /* border: 1px solid red; */
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px ;
+}
+
+.empty {
+  /* sample */
+  width: 350px;
+  margin: auto;
+  background-color: rgb(255, 159, 143);
+  padding:5px;
+
+}
